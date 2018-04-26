@@ -1,10 +1,10 @@
-# Product Engineer Hiring Resources
+# Data Engineer Hiring Resources
 
 We gather here all our public hiring process resources for our Data Engineer role at Inato.
 
 ## Resources:
 
-* [Angel.co official job post](https://angel.co/inato/jobs/294449-product-engineer) (where you can apply and check out the team)
+* [Angel.co official job post](https://angel.co/inato/jobs/284415-data-engineer) (where you can apply and check out the team)
 * [Job description](/job-description.md)
 * [Team principles](/team-principles.md)
 * [Hiring process](/hiring-process.md)
