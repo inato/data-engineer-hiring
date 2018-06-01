@@ -8,7 +8,7 @@ We gather here all our public hiring process resources for our Data Engineer rol
 * [Job description](/job-description.md)
 * [What drives the team](/what-drives-the-team.md)
 * [Hiring process](/hiring-process.md)
-* [Candidate assessment](/candidate-assesment.md)
+* [Candidate assessment](/candidate-assessment.md)
 
 ## Our company
 
