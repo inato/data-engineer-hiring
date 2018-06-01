@@ -6,7 +6,7 @@ We gather here all our public hiring process resources for our Data Engineer rol
 
 * [Angel.co official job post](https://angel.co/inato/jobs/284415-data-engineer) (where you can apply and check out the team)
 * [Job description](/job-description.md)
-* [Team principles](/team-principles.md)
+* [What drives the team](/what-drives-the-team.md)
 * [Hiring process](/hiring-process.md)
 * [Candidate scorecard](/candidate-scorecard.md)
 
