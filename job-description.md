@@ -3,6 +3,7 @@
 
 ### Mission
 * Build data pipelines from beginning to end (prototyping, testing, running on production)
+* Maintain a robust and scalable infrastructure
 * Help recruit future engineers
 * Make the team and company grow in meaningful ways
 
