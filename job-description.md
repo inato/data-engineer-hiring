@@ -11,9 +11,10 @@
 ### Tech stack
 * Pipeline: Python, PostgreSQl, Elasticsearch
 * Ops: Travis CI, Google Cloud Platform, Elastic Cloud
+* Monitoring: Datadogs
+
 
 ### What we are looking for (ideally)
-
 * You have experience building production-grade data pipelines
 * You know the systems you’ve worked on from top to bottom
 * You are ambitious, responsible and want to tackle big challenges
