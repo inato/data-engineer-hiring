@@ -42,19 +42,16 @@ Content:
 ### 3. Technical interview 2
 _2h with Pierre (Data Engineer)_
 
-This interview is done on site.
-
 Goal:
-* See how the candidate navigates problems "live" (Look for problem solving skills, "get things done" attitude)
-* Get an idea of the candidate's software engineering literacy
+* See how the candidate navigates problems "live" (Look for problem solving skills)
+* Get an idea of the candidate's problem solving skills
+* Get an idea of the candidate’s get things done attitude
 
 Content:
-* Remind the project and the vision (5mn)
-* General technical knowledge (20mn)
-* Coding exercise with the candidate (20mn)
+* Problem solving exercise: open problem (50mn)
+* Implement and deploy your solution (50mn)
 * Questions from candidate (10mn)
 
----
 
 ### 4. Questions
 
