@@ -22,4 +22,4 @@ We have already partnered with leading companies on international clinical trial
 
 ### Perks
 
-We offer one of the best compensation packages in France, meaningful equity, an awesome office in the center of Paris, the best tools money can buy, free books and lots of other stuff.
+We offer one of the best compensation packages in France, meaningful equity, an awesome office in the center of Paris, the best tools money can buy, free books, free snacks and lots of other stuff.
