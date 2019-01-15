@@ -10,7 +10,7 @@
 
 ### Tech stack
 * Pipeline: Python, PostgreSQl, Elasticsearch
-* Ops: Travis CI, Google Cloud Platform, Elastic Cloud
+* Ops: Circle CI, Google Cloud Platform, Elastic Cloud
 * Monitoring: Datadogs
 
 
