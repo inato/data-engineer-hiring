@@ -11,7 +11,7 @@ Resources:
 ---
 
 ### 1. Screening interview
-_30mn with William (CTO)_
+_30mn with Ségolène (HR & Talent Acquisition Manager)_
 
 This interview is done over the phone.
 
@@ -32,9 +32,9 @@ Goal:
 * Get an idea of the candidate's software engineering literacy
 
 Content:
-* Remind the project and the vision (5mn)
-* General technical knowledge (20mn)
-* Coding exercise with the candidate (20mn)
+* Presentation of the data team (5mn)
+* Candidate presentation (10mn)
+* Coding exercise with the candidate (30mn)
 * Questions from candidate (10mn)
 
 ---
@@ -52,6 +52,7 @@ Content:
 * Implement and deploy your solution (50mn)
 * Questions from candidate (10mn)
 
+---
 
 ### 4. Questions
 
