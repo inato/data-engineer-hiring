@@ -14,6 +14,7 @@ Resources:
 _30mn with Ségolène (HR & Talent Acquisition Manager)_
 
 This interview is done over the phone.
+The candidate can bring his own laptop.
 
 Goal:
 * Get an idea of the candidate's profile and trajectory
