@@ -56,7 +56,7 @@ Content:
 ---
 
 ### 4. Behavioral interview
-_1h with William (CPO & co-founder)_
+_1h with Bastien (VP Engineering)_
 
 Questions:
 * What do you want to do at Inato? How do you see your ideal role?
@@ -66,18 +66,12 @@ Questions:
 
 ---
 
-### 5. Interview with the CEO
-_30mn with Kourosh (CEO)_
+### 5. Interview with the C-level
+_30mn with Kourosh / William (CEO / CPO)_
 
 Goal:
 * Explain the mission and the vision to the candidate
 * Explain the big milestones and the timeline
 * Answer any question from the candidate
 
----
 
-### 6. Lunch/Drinks with all the team
-_2 hours_ 
-
-Goal:
-* Check cultural fit with the candidate
