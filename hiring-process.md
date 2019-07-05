@@ -25,7 +25,7 @@ Goal:
 ### 2. Technical interview 1
 _1h with Pierre (Data Engineer)_
 
-This interview is done on site.
+This interview can be done on site / remote.
 
 Goal:
 * See how the candidate navigates problems "live" (Look for problem solving skills, "get things done" attitude)
@@ -54,7 +54,8 @@ Content:
 
 ---
 
-### 4. Questions
+### 4. Behavioral interview
+_1h with William (CPO & co-founder)_
 
 Questions:
 * What do you want to do at Inato? How do you see your ideal role?
