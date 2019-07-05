@@ -14,7 +14,6 @@ Resources:
 _30mn with Ségolène (HR & Talent Acquisition Manager)_
 
 This interview is done over the phone.
-The candidate can bring his own laptop.
 
 Goal:
 * Get an idea of the candidate's profile and trajectory
@@ -27,6 +26,7 @@ Goal:
 _1h with Pierre (Data Engineer)_
 
 This interview can be done on site / remote.
+The candidate can bring his own laptop.
 
 Goal:
 * See how the candidate navigates problems "live" (Look for problem solving skills, "get things done" attitude)
